@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event_title">ATH Tech</string>
+    <string name="event_subtitle">ATHENS DEVELOPERS &amp; TECHIES</string>
+    <string name="event_details">This is an open app about the community of Athens\' developers and techies. Meet the community and find out about upcoming events and meetups.</string>
+    <string name="communities_url">https://raw.githubusercontent.com/athtech/athtech.github.io/master/_data/communities.yaml</string>
+    <string name="google_calendar_id">2ul10sd9g30mnk1vpmcnnp5qv4@group.calendar.google.com</string>
+    <string name="tech_communities">Athens Tech Communities</string>
+</resources>

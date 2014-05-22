@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="lightsteelblue3">#A2B5CD</color>
+    <color name="bisque2">#EED5B7</color>
+    <color name="bg_grey">#F2F2F2</color>
+    <color name="link_blue">#0645AD</color>
+    <color name="header_green">#003D32</color>
+    <color name="darksea_green">#8FBC8F</color>
+    <color name="separator_grey">#BDBDBD</color>
+</resources>
